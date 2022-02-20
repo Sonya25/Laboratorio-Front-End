@@ -1,0 +1,29 @@
+fieldset { 
+    background-color: aqua; 
+}
+
+h1 { 
+    text-align: center;
+    color: darkblue; 
+}
+
+legend { 
+    background-color: red; 
+    color: white; 
+}
+
+input { 
+    background-color: yellow; 
+}
+
+input[type=button] {
+    background-color: pink;
+    white-space: normal;
+    width: 80px;
+}
+
+input[type=date] {
+    background-color: white;
+}
+
+
